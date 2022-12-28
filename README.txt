@@ -1,4 +1,3 @@
-YohannesDawit-Portfolio3.README
 
 Quickhull.py
 Input should be a list of ordered pairs representing the points. The output should be a list of segments
